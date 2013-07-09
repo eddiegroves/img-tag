@@ -1,4 +1,4 @@
-Outputs an HTML <img /> tag from an image file.
+Outputs an HTML `<img />` tag from an image file.
 
 Uses .NET 4.5, possibly other dependencies as well with WPF.
 
